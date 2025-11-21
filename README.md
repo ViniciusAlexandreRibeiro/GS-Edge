@@ -29,6 +29,5 @@ Para gestão a longo prazo, o dispositivo conecta-se à internet via Wi-Fi e env
 4.  Inicie a simulação para visualizar os dados no Serial Monitor e no Dashboard.
 
 ## 👨‍💻 Desenvolvedores
-* [Seu Nome/RM]
-* [Nome do Integrante/RM]
-* [Nome do Integrante/RM]
+* Vinicius Alexandre Aureliano Ribeiro
+* RM 561606
