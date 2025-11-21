@@ -31,6 +31,8 @@ Para gestão a longo prazo, o dispositivo conecta-se à internet via Wi-Fi e env
 3.  No código fonte, insira suas credenciais de Wi-Fi e a **Write API Key** do seu canal ThingSpeak.
 4.  Inicie a simulação para visualizar os dados no Serial Monitor e no Dashboard.
 
+## Link Video: https://youtu.be/1EZYrINH2Sw
+
 ## 👨‍💻 Desenvolvedores
 * Vinicius Alexandre Aureliano Ribeiro
 * RM 561606
