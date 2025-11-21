@@ -26,7 +26,7 @@ A solução implementa uma arquitetura de decisão local (sem depender da nuvem 
 Para gestão a longo prazo, o dispositivo conecta-se à internet via Wi-Fi e envia dados de telemetria a cada 15 segundos para a plataforma **ThingSpeak** utilizando requisições HTTP (API REST), permitindo a criação de dashboards analíticos para gestores.
 
 ## 🔧 Como Reproduzir
-1.  Acesse a simulação no Wokwi: [INSIRA SEU LINK AQUI]
+1.  Acesse a simulação no Wokwi: https://wokwi.com/projects/448190724242285569
 2.  Verifique as bibliotecas necessárias: `DHT sensor library`, `WiFi`, `HTTPClient`.
 3.  No código fonte, insira suas credenciais de Wi-Fi e a **Write API Key** do seu canal ThingSpeak.
 4.  Inicie a simulação para visualizar os dados no Serial Monitor e no Dashboard.
