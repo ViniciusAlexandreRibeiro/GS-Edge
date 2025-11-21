@@ -13,6 +13,9 @@ O sistema foi desenvolvido e simulado na plataforma Wokwi, utilizando:
 * **Potenciômetro**: Simulação de sensor de batimentos cardíacos (BPM/Estresse).
 * **Atuadores (LED e Buzzer)**: Interface de feedback visual e sonoro para o usuário.
 
+<img width="1267" height="630" alt="CleanShot 2025-11-20 at 21 49 53" src="https://github.com/user-attachments/assets/e8df5219-2520-4318-881b-465b05ea1f59" />
+
+
 ## 🚀 Funcionalidades (Edge Computing)
 A solução implementa uma arquitetura de decisão local (sem depender da nuvem para alertas críticos):
 1.  **Alerta de Estresse:** Aciona alarme se os batimentos cardíacos simulados ultrapassarem 110 BPM.
